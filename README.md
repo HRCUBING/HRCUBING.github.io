@@ -1,1 +1,5 @@
-# HRCUBING.github.io
+# HRCUBING WEBSITE PRE-240304
+
+# VERSIONS
+The version number is [PRE,A,B,R]-([(DATE(YYMMDD)),(VERSION(REL.VER.FIX))])
+PRE-240304: Initial Release, added GLOBAL.CSS, INDEX.HTML
